@@ -1,0 +1,40 @@
+
+1.Protege 5.2.0 for designing owl ontologies
+
+
+if not installed ,download it from here:
+
+
+https://protege.stanford.edu/products.php#desktop-protege
+
+
+2.CRF++ 0.58 for training and testing the data
+
+
+if not installed ,download it from here:
+
+
+https://taku910.github.io/crfpp/
+
+
+3.Hindi pos tagger and Hindi dependency tagger
+
+
+if not installed ,download it from here:
+
+
+https://bitbucket.org/sivareddyg/hindi-dependency-parser
+https://bitbucket.org/sivareddyg/hindi-part-of-speech-tagger
+
+
+4.apache-jena-fuseki-3.7.0
+
+
+if not installed ,download it from here:
+
+
+https://jena.apache.org/download/index.cgi
+
+
+
+5.Python3 and Python2

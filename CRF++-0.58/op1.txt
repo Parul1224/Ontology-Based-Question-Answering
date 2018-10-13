@@ -1,0 +1,4432 @@
+ब्लैक_सिगाटोका	r6	NNP	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लैक_सिगाटोका	r6	NNP	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लैक_सिगाटोका	k7t	NNP	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+ब्लैक_सिगाटोका	r6	NNP	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लैक_सिगाटोका	r6	NNP	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+ब्लैक_सिगाटोका	r6	NNP	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लैक_सिगाटोका	r6	NNP	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लैक_सिगाटोका	r6	NNP	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लैक_सिगाटोका	k1	NNP	JJ	SELECT
+किसके	k2	PRP	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+ब्लैक_सिगाटोका	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+ब्लैक_सिगाटोका	r6	NNP	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लैक_सिगाटोका	r6	NNP	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+ब्लैक_सिगाटोका	k1	NNP	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+ब्लैक_सिगाटोका	mod	NNP	JJ	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लैक_सिगाटोका	k7t	NNP	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+ब्लैक_सिगाटोका	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लैक_सिगाटोका	k4	NNP	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+ब्लैक_सिगाटोका	r6	NNP	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पपीते_का_काले_धब्बे_का_रोग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_फल_की_मक्खी	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_फल_की_मक्खी	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+पपीते_फल_की_मक्खी	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_फल_की_मक्खी	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पपीते_फल_की_मक्खी	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_फल_की_मक्खी	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_फल_की_मक्खी	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_फल_की_मक्खी	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पपीते_फल_की_मक्खी	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	k7t	NNP	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	k1s	NN	NN	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	NN	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	mod	NNP	JJ	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	k7t	NNP	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	k4	NNP	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+केले_में_होने_वाला_एन्थ्राक्नोज़	r6	NNP	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+नकली_स्मट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+नकली_स्मट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+नकली_स्मट	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+नकली_स्मट	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+नकली_स्मट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+नकली_स्मट	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+नकली_स्मट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+नकली_स्मट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+नकली_स्मट	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+नकली_स्मट	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+नकली_स्मट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+नकली_स्मट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+नकली_स्मट	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+नकली_स्मट	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+नकली_स्मट	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+नकली_स्मट	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+नकली_स्मट	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+नकली_स्मट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	NN	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	k2	NN	PSP:का	SELECT
+कोक्	ccof	VM	NN	DISCARD
+‍	lwg__vaux	VAUX	PSP:का	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	DISCARD
+-फलों_का_नीचे_से_सडना-	k2	NN	VM	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	NN	DISCARD
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	NN	DISCARD
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	k1	NN	NN	DISCARD
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	k1	NN	.	DISCARD
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	k1	NN	VM	DISCARD
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	k1	NN	VAUX	DISCARD
+किस	mod__wq	WQ	NN	DISCARD
+जीव	k7	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	k4	NNP	.	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	NN	SELECT
+-फलों_का_नीचे_से_सडना-	mod	XC	NN	DISCARD
+कोक्	mod	NNP	NN	DISCARD
+‍	ccof	NN	VM	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	k4	NNP	VM	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+ब्लॉसम_एंड_रोट	mod	XC	PSP:का	SELECT
+-फलों_का_नीचे_से_सडना-	r6	NNP	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+संक्षिप्त	nmod__adj	JJ	VM	SELECT
+वर्णन	pof	NN	.	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	nmod__adj	JJ	JJ	SELECT
+कोक्	mod	NN	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+चावल_पर_जीवाणु_का_पाला_लगना	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	mod	NN	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NNP	NN	DISCARD
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	mod	NN	NN	SELECT
+-साइट्रस_लीफ़_माइनर-	mod	NN	NN	DISCARD
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	k1	NN	VM	SELECT
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	k1	NN	VAUX	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+जीव	k7	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	k2	NN	.	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	mod	XC	NN	SELECT
+-साइट्रस_लीफ़_माइनर-	mod	XC	NN	DISCARD
+कोक्	mod	NNP	NN	DISCARD
+‍	ccof	NN	VM	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_के_पत्तों_का_कीट	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_लीफ़_माइनर-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+संक्षिप्त	nmod__adj	JJ	VM	SELECT
+वर्णन	pof	NN	.	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	k1	NN	.	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	k1	NN	VM	SELECT
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	k1	NN	VAUX	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+जीव	k7	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	k2	NN	.	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	k2	NN	JJ	DISCARD
+कोक्	ccof	VM	VM	DISCARD
+‍	lwg__vaux	VAUX	JJ	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पपीते_और_आम_का_कवक	nmod__adj	JJ	PSP:का	SELECT
+-एंथ्राक्नोज़-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+संक्षिप्त	nmod__adj	JJ	VM	SELECT
+वर्णन	pof	NN	.	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+कली_के_गलने_का_रोग	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+कली_के_गलने_का_रोग	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+कली_के_गलने_का_रोग	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+कली_के_गलने_का_रोग	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+कली_के_गलने_का_रोग	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+कली_के_गलने_का_रोग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+बीन_लीफ_बीटल	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+बीन_लीफ_बीटल	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+बीन_लीफ_बीटल	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+बीन_लीफ_बीटल	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+बीन_लीफ_बीटल	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+बीन_लीफ_बीटल	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+बीन_लीफ_बीटल	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+बीन_लीफ_बीटल	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+बीन_लीफ_बीटल	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+ओल्टेर्नेरिया_कत्थई_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	k1	NN	.	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	k1	NN	VM	SELECT
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	k1	NN	VAUX	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+जीव	k7	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	k2	NN	.	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	k2	NN	JJ	DISCARD
+कोक्	ccof	VM	VM	DISCARD
+‍	lwg__vaux	VAUX	JJ	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी	nmod__adj	JJ	PSP:का	SELECT
+-साइट्रस_व्हाइटफ़्लाई-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+संक्षिप्त	nmod__adj	JJ	VM	SELECT
+वर्णन	pof	NN	.	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	k2	NN	PSP:का	SELECT
+कोक्	ccof	VM	NN	DISCARD
+‍	lwg__vaux	VAUX	PSP:का	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+टमाटर_की_प्रारंभिक_अंगमारी	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+लीफ-माइनर_फ्लाइस	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+लीफ-माइनर_फ्लाइस	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+लीफ-माइनर_फ्लाइस	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+लीफ-माइनर_फ्लाइस	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+लीफ-माइनर_फ्लाइस	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+लीफ-माइनर_फ्लाइस	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+लीफ-माइनर_फ्लाइस	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+लीफ-माइनर_फ्लाइस	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+लीफ-माइनर_फ्लाइस	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+चावल_की_पत्तियों_का_झुलसना	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पाउडरी_मिल्ड्यू	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पाउडरी_मिल्ड्यू	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+पाउडरी_मिल्ड्यू	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	NN	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+पाउडरी_मिल्ड्यू	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पाउडरी_मिल्ड्यू	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पाउडरी_मिल्ड्यू	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पाउडरी_मिल्ड्यू	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पाउडरी_मिल्ड्यू	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पाउडरी_मिल्ड्यू	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+तने_में_छिद्र_करने_वाला_पीला_कीट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	NN	DISCARD
+-टार्गेट_स्पॉट-	mod	NN	NN	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+लक्ष्य_बिंदु	k1	RDP	VM	DISCARD
+-टार्गेट_स्पॉट-	k1	NN	VM	SELECT
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	NN	DISCARD
+-टार्गेट_स्पॉट-	mod	NN	NN	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+जीव	rh	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	k2	NN	.	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	NN	DISCARD
+-टार्गेट_स्पॉट-	mod	XC	NN	DISCARD
+कोक्	mod	NNP	NN	DISCARD
+‍	ccof	NN	VM	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+लक्ष्य_बिंदु	mod	RDP	PSP:का	DISCARD
+-टार्गेट_स्पॉट-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+संक्षिप्त	nmod__adj	JJ	VM	SELECT
+वर्णन	pof	NN	.	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	XC	PSP:का	SELECT
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NNP	NN	DISCARD
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	NN	PSP:का	SELECT
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NNP	NN	DISCARD
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	XC	PSP:का	SELECT
+-आईस्पॉट_ऑफ़_कॉर्न-	k1	NN	NN	DISCARD
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	NN	NN	SELECT
+-आईस्पॉट_ऑफ़_कॉर्न-	mod	NN	NN	DISCARD
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	XC	PSP:का	SELECT
+-आईस्पॉट_ऑफ़_कॉर्न-	k1	NN	VM	DISCARD
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	XC	PSP:का	SELECT
+-आईस्पॉट_ऑफ़_कॉर्न-	k1	NN	VAUX	DISCARD
+किस	mod__wq	WQ	NN	DISCARD
+जीव	k7	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	XC	PSP:का	SELECT
+-आईस्पॉट_ऑफ़_कॉर्न-	k4	NNP	.	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	XC	NN	SELECT
+-आईस्पॉट_ऑफ़_कॉर्न-	mod	XC	NN	DISCARD
+कोक्	mod	NNP	NN	DISCARD
+‍	ccof	NN	VM	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा	mod	RDP	PSP:का	DISCARD
+-आईस्पॉट_ऑफ़_कॉर्न-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+संक्षिप्त	nmod__adj	JJ	VM	SELECT
+वर्णन	pof	NN	.	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+सोयाबीन_रस्ट	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+सोयाबीन_रस्ट	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+सोयाबीन_रस्ट	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+सोयाबीन_रस्ट	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+सोयाबीन_रस्ट	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+सोयाबीन_रस्ट	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	k2	NN	PSP:का	SELECT
+कोक्	ccof	VM	NN	DISCARD
+‍	lwg__vaux	VAUX	PSP:का	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पत्तियों_पर_जीवाणु_की_धारियां	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+उड़द_दाल_पर_ज़ंग	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+उड़द_दाल_पर_ज़ंग	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	k1s	NN	NN	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	NN	DISCARD
+
+उड़द_दाल_पर_ज़ंग	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	NN	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+उड़द_दाल_पर_ज़ंग	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+उड़द_दाल_पर_ज़ंग	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+उड़द_दाल_पर_ज़ंग	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+उड़द_दाल_पर_ज़ंग	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+उड़द_दाल_पर_ज़ंग	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+उड़द_दाल_पर_ज़ंग	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	r6	NNP	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	r6	NNP	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	DISCARD
+-एंगुलर_लीफ़_स्पॉट-	k2	NN	VM	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	r6	NNP	NN	DISCARD
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	r6	NNP	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	r6	NNP	NN	DISCARD
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	r6	NNP	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	r6	NNP	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	k1	NN	NN	DISCARD
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	k1	NN	.	DISCARD
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	r6	NNP	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	r6	NNP	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	k1	NN	VM	DISCARD
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	k1	NN	VAUX	DISCARD
+किस	mod__wq	WQ	NN	DISCARD
+जीव	k7	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	k4	NNP	.	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	NN	SELECT
+-एंगुलर_लीफ़_स्पॉट-	mod	XC	NN	DISCARD
+कोक्	mod	NNP	NN	DISCARD
+‍	ccof	NN	VM	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग	mod	XC	PSP:का	SELECT
+-एंगुलर_लीफ़_स्पॉट-	k4	NNP	VM	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	k1	NN	.	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	NN	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	k1	NN	VM	SELECT
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	k1	NN	VAUX	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+जीव	k7	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	k2	NN	.	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	k2	NN	JJ	DISCARD
+कोक्	ccof	VM	VM	DISCARD
+‍	lwg__vaux	VAUX	JJ	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे	nmod__adj	JJ	PSP:का	SELECT
+-फ़्रॉग_आई_लीफ़_स्पॉट-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+संक्षिप्त	nmod__adj	JJ	VM	SELECT
+वर्णन	pof	NN	.	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	k2	NN	VM	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	NN	DISCARD
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	NN	DISCARD
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_का_लाल_घुन	k1	NN	NN	SELECT
+-साइट्रस_रेड_माइट-	vmod	VM	NN	DISCARD
+किसके	adv	WQ	NN	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	NN	DISCARD
+-साइट्रस_रेड_माइट-	nmod__adj	VM	NN	DISCARD
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	k1	NN	VM	DISCARD
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	NN	SELECT
+-साइट्रस_रेड_माइट-	mod	NN	NN	DISCARD
+किस	mod__wq	WQ	NN	DISCARD
+जीव	k7	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	k2	NN	.	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+साइट्रस_का_लाल_घुन	k1	NN	VAUX	SELECT
+-साइट्रस_रेड_माइट-	mod	VM	NN	DISCARD
+कोक्	mod	NNP	NN	DISCARD
+‍	ccof	NN	VM	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	k2	NN	VM	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+साइट्रस_का_लाल_घुन	mod	NN	PSP:का	SELECT
+-साइट्रस_रेड_माइट-	r6	NN	VM	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+संक्षिप्त	nmod__adj	JJ	VM	SELECT
+वर्णन	pof	NN	.	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+उपाय	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	mod	NN	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NNP	NN	DISCARD
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+निरोध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कैसे	adv	WQ	VM	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+रोकधाम	k1	NN	VAUX	SELECT
+संक्षिप्त	k1	NN	VAUX	SELECT
+मे	adv	PSP:मा	VAUX	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+प्रतिकार	pof	NN	.	SELECT
+कैसे	adv	WQ	.	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	.	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NN	NN	SELECT
+के	lwg__psp	PSP:का	PSP:का	DISCARD
+पर्तिबन्ध	k1	NN	VAUX	SELECT
+क्या	vmod	WQ	VAUX	DISCARD
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+वैज्ञानिक	nmod__adj	JJ	VM	SELECT
+नाम	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मुख्य	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	main	NN	-	DISCARD
+किसके	mod__wq	WQ	NN	DISCARD
+कारणहोता	ccof	NN	PSP:का	SELECT
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	k1	NN	.	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+वजह	rh	NN	.	DISCARD
+से	lwg__psp	PSP:से	NN	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+मूल	nmod__adj	JJ	VM	DISCARD
+कारण	k1	NN	VAUX	SELECT
+क्या	adv	WQ	VAUX	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+अभिप्राय	k1	NN	.	SELECT
+क्या	k1s	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	k1	NN	VM	SELECT
+किसके	adv	WQ	VM	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	k1	NN	VAUX	SELECT
+किस	mod__wq	WQ	NN	DISCARD
+जीव	k7	NN	VAUX	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+कारण	lwg__psp	NN	NN	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	k2	NN	.	SELECT
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+कॉन	k2	NN	.	DISCARD
+पैदा	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	mod	XC	NN	SELECT
+-यूरोपीय_कॉर्न_बोरर-	mod	XC	NN	DISCARD
+कोक्	mod	NNP	NN	DISCARD
+‍	ccof	NN	VM	DISCARD
+या	k2	CC:या	VAUX	DISCARD
+प्रेरित	pof	JJ	VAUX	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VAUX	DISCARD
+.	rsym	.	VAUX	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	mod	NN	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	k4	NNP	VM	DISCARD
+को	lwg__psp	PSP:को	PSP:का	DISCARD
+क्या	adv	WQ	VM	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+यूरोपीय_मकई_छिद्रक_कीट	nmod__adj	JJ	PSP:का	SELECT
+-यूरोपीय_कॉर्न_बोरर-	r6	NN	VM	SELECT
+का	lwg__psp	PSP:का	PSP:का	DISCARD
+संक्षिप्त	nmod__adj	JJ	VM	SELECT
+वर्णन	pof	NN	.	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+जीवाणविक_धब्बे	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+जीवाणविक_धब्बे	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+जीवाणविक_धब्बे	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+जीवाणविक_धब्बे	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+जीवाणविक_धब्बे	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+जीवाणविक_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+उपाय	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+निरोध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_के_खोल_में_धब्बे	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कैसे	adv	WQ	NN	DISCARD
+रोक	main	VM	-	SELECT
+सकते	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+रोकधाम	k1	NN	.	SELECT
+संक्षिप्त	k1	NN	.	SELECT
+मे	adv	PSP:मा	.	DISCARD
+लिखे	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+प्रतिकार	pof	NN	VM	SELECT
+कैसे	adv	WQ	VM	DISCARD
+कर	main	VM	-	DISCARD
+सकते	lwg__vaux	VAUX	VM	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	JJ	SELECT
+के	lwg__psp	PSP:का	NN	DISCARD
+पर्तिबन्ध	k1	NN	.	SELECT
+क्या	vmod	WQ	.	DISCARD
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+वैज्ञानिक	nmod__adj	JJ	NN	SELECT
+नाम	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मुख्य	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_के_खोल_में_धब्बे	k1	NN	JJ	SELECT
+किसके	adv	WQ	JJ	DISCARD
+कारणहोता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	JJ	DISCARD
+.	rsym	.	JJ	DISCARD
+
+चावल_के_खोल_में_धब्बे	k1	NN	VM	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+वजह	rh	NN	VM	DISCARD
+से	lwg__psp	PSP:से	JJ	DISCARD
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+मूल	nmod__adj	JJ	NN	DISCARD
+कारण	k1	NN	.	SELECT
+क्या	adv	WQ	.	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	JJ	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+अभिप्राय	k1	NN	VM	SELECT
+क्या	k1s	WQ	VM	DISCARD
+है	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_के_खोल_में_धब्बे	k1	NN	NN	SELECT
+किसके	adv	WQ	NN	DISCARD
+कारण	lwg__psp	NN	PSP:का	SELECT
+हेतू	main	VM	-	DISCARD
+होता	lwg__vaux	VAUX	NN	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+चावल_के_खोल_में_धब्बे	k1	NN	.	SELECT
+किस	mod__wq	WQ	JJ	DISCARD
+जीव	k7	NN	.	SELECT
+के	lwg__psp	PSP:का	JJ	DISCARD
+कारण	lwg__psp	NN	JJ	SELECT
+होता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_के_खोल_में_धब्बे	k2	NN	VM	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+कॉन	k2	NN	VM	DISCARD
+पैदा	pof	JJ	VM	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	VM	DISCARD
+.	rsym	.	VM	DISCARD
+
+चावल_के_खोल_में_धब्बे	mod	XC	JJ	SELECT
+कोक्	mod	NNP	JJ	DISCARD
+‍	ccof	NN	NN	DISCARD
+या	k2	CC:या	.	DISCARD
+प्रेरित	pof	JJ	.	SELECT
+करता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	.	DISCARD
+.	rsym	.	.	DISCARD
+
+चावल_के_खोल_में_धब्बे	k2	NN	NN	SELECT
+को	lwg__psp	PSP:को	NN	DISCARD
+क्या	adv	WQ	NN	DISCARD
+उकसाता	main	VM	-	DISCARD
+है	lwg__vaux	VAUX	NN	DISCARD
+.	rsym	.	NN	DISCARD
+
+चावल_के_खोल_में_धब्बे	r6	NN	NN	SELECT
+का	lwg__psp	PSP:का	NN	DISCARD
+संक्षिप्त	nmod__adj	JJ	NN	SELECT
+वर्णन	pof	NN	VM	DISCARD
+करे	main	VM	-	DISCARD
+.	rsym	.	VM	DISCARD
+

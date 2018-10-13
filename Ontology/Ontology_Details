@@ -1,0 +1,131 @@
+
+Ontology Domain:An ontology to give details about Agricultural Diseases(Hindi)
+
+
+--------------------------------------------------------------------------------------------------------
+
+Specification:file:///home/parul/IIIT_project/Ontology/hindi.owl
+
+---------------------------------------------------------------------------------------------------------
+
+
+Ontology Name:hindi.owl
+
+----------------------------------------------------------------------------------------------------------
+
+
+Ontology IRI : http://www.semanticweb.org/parul/ontologies/2018/5/untitled-ontology-35
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Ontology metrices:
+
+METRICES  
+
+            
+         Axiom                                       5013
+         Logical axiom count                         4550
+         Declaration axioms count                    411
+         Class count                                 8
+         Object property count                       2
+         Data property count                         11  
+         Indiviual count                             391
+         Annotation Property count                   1
+         DL expressivity                             ALH(D)
+
+
+CLASS AXIOMS
+
+                                                       
+         SubClassOf                                   5
+                                                      
+        
+OBJECT PROPERTY AXIOMS
+
+         
+         ObjectPropertyDomain                         2
+         ObjectPropertyRange                          2
+
+
+DATA PROPERTY AXIOMS
+         
+
+         ClassAssertion                               390
+         ObjectPropertyAssertion                      1292 
+         DataPropertyAssertion                        2838
+
+
+ANNOTATION AXIOMS
+
+
+        AnnotationAssertion                           52              
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+Total Diseases                                         284
+Total Cause                                            8
+Total Crops                                            100
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
+CLASSES                                                 8
+
+1.   बिमारी   
+                                           
+2.   फसल    
+         1.तेल
+         2.फल
+         3.सब्ज़ी
+         4.दाल
+         5.अनाज
+
+3.   बिमारी का कारण
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+
+ 
+DATA PROPERTIES                                          10
+
+1.symptoms
+2.trigger
+3.chemical control
+4.organic control
+5.prevention
+6.disease id
+7.host
+8.cause
+9.in short
+10.scientific name
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+OBJECT PROPERTIES                                         2
+
+
+1.caused by
+2.affected by
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+

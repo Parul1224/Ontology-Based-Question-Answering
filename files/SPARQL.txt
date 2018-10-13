@@ -1,0 +1,11 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT DISTINCT ?a ?b ?c
+WHERE {
+   ?a <http://www.semanticweb.org/saujanya/ontologies/2018/5/untitled-ontology-35#affected_by> ?b ;
+
+}
+ORDER BY ASC(?b)
+LIMIT 300

@@ -1,0 +1,4973 @@
+ब्लैक_सिगाटोका  r6  NNP  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ब्लैक_सिगाटोका  r6  NNP  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ब्लैक_सिगाटोका  k7t  NNP  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+ब्लैक_सिगाटोका  r6  NNP  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+ब्लैक_सिगाटोका  r6  NNP  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+ब्लैक_सिगाटोका  r6  NNP  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ब्लैक_सिगाटोका  r6  NNP  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ब्लैक_सिगाटोका  r6  NNP  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ब्लैक_सिगाटोका  k1  NNP  JJ
+किसके  k2  PRP  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+ब्लैक_सिगाटोका  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+ब्लैक_सिगाटोका  r6  NNP  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ब्लैक_सिगाटोका  r6  NNP  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+ब्लैक_सिगाटोका  k1  NNP  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+ब्लैक_सिगाटोका  mod  NNP  JJ
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+ब्लैक_सिगाटोका  k7t  NNP  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+ब्लैक_सिगाटोका  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+ब्लैक_सिगाटोका  k4  NNP  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+ब्लैक_सिगाटोका  r6  NNP  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_का_काले_धब्बे_का_रोग  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_का_काले_धब्बे_का_रोग  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+पपीते_का_काले_धब्बे_का_रोग  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+पपीते_का_काले_धब्बे_का_रोग  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पपीते_का_काले_धब्बे_का_रोग  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पपीते_का_काले_धब्बे_का_रोग  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पपीते_का_काले_धब्बे_का_रोग  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पपीते_का_काले_धब्बे_का_रोग  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पपीते_का_काले_धब्बे_का_रोग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+पपीते_फल_की_मक्खी  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_फल_की_मक्खी  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_फल_की_मक्खी  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पपीते_फल_की_मक्खी  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+पपीते_फल_की_मक्खी  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पपीते_फल_की_मक्खी  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_फल_की_मक्खी  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_फल_की_मक्खी  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_फल_की_मक्खी  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+पपीते_फल_की_मक्खी  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पपीते_फल_की_मक्खी  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_फल_की_मक्खी  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+पपीते_फल_की_मक्खी  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पपीते_फल_की_मक्खी  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पपीते_फल_की_मक्खी  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पपीते_फल_की_मक्खी  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पपीते_फल_की_मक्खी  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पपीते_फल_की_मक्खी  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  k7t  NNP  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  k1s  NN  NN
+है  main  VM  -
+.  rsym  .  NN
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  mod  NNP  JJ
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  k7t  NNP  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  k4  NNP  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+केले_में_होने_वाला_एन्थ्राक्नोज़  r6  NNP  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+नकली_स्मट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+नकली_स्मट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+नकली_स्मट  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+नकली_स्मट  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+नकली_स्मट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+नकली_स्मट  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+नकली_स्मट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+नकली_स्मट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+नकली_स्मट  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+नकली_स्मट  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+नकली_स्मट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+नकली_स्मट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+नकली_स्मट  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+नकली_स्मट  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+नकली_स्मट  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+नकली_स्मट  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+नकली_स्मट  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+नकली_स्मट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  NN  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  k2  NN  PSP:का
+कोक्  ccof  VM  NN
+‍  lwg__vaux  VAUX  PSP:का
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+फ़ेओस्फ़ेरिया_लीफ़_स्पॉट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  k1  NN  .
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  k1  NN  VAUX
+किस  mod__wq  WQ  NN
+जीव  k7  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  k4  NNP  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+ब्लॉसम_एंड_रोट  mod  XC  NN
+-फलों_का_नीचे_से_सडना-  mod  XC  NN
+कोक्  mod  NNP  NN
+‍  ccof  NN  VM
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  k4  NNP  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+ब्लॉसम_एंड_रोट  mod  XC  PSP:का
+-फलों_का_नीचे_से_सडना-  r6  NNP  VM
+का  lwg__psp  PSP:का  PSP:का
+संक्षिप्त  nmod__adj  JJ  VM
+वर्णन  pof  NN  .
+करे  main  VM  -
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  nmod__adj  JJ  JJ
+कोक्  mod  NN  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+चावल_पर_जीवाणु_का_पाला_लगना  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+साइट्रस_के_पत्तों_का_कीट  mod  NN  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NNP  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+साइट्रस_के_पत्तों_का_कीट  mod  NN  NN
+-साइट्रस_लीफ़_माइनर-  mod  NN  NN
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  k1  NN  VAUX
+किस  mod__wq  WQ  NN
+जीव  k7  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  k2  NN  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+साइट्रस_के_पत्तों_का_कीट  mod  XC  NN
+-साइट्रस_लीफ़_माइनर-  mod  XC  NN
+कोक्  mod  NNP  NN
+‍  ccof  NN  VM
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+साइट्रस_के_पत्तों_का_कीट  nmod__adj  JJ  PSP:का
+-साइट्रस_लीफ़_माइनर-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+संक्षिप्त  nmod__adj  JJ  VM
+वर्णन  pof  NN  .
+करे  main  VM  -
+.  rsym  .  .
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  k1  NN  .
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  k1  NN  VAUX
+किस  mod__wq  WQ  NN
+जीव  k7  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  k2  NN  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  k2  NN  JJ
+कोक्  ccof  VM  VM
+‍  lwg__vaux  VAUX  JJ
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पपीते_और_आम_का_कवक  nmod__adj  JJ  PSP:का
+-एंथ्राक्नोज़-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+संक्षिप्त  nmod__adj  JJ  VM
+वर्णन  pof  NN  .
+करे  main  VM  -
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+कली_के_गलने_का_रोग  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+कली_के_गलने_का_रोग  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+कली_के_गलने_का_रोग  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+कली_के_गलने_का_रोग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+कली_के_गलने_का_रोग  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+कली_के_गलने_का_रोग  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+कली_के_गलने_का_रोग  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+कली_के_गलने_का_रोग  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+कली_के_गलने_का_रोग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+बीन_लीफ_बीटल  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+बीन_लीफ_बीटल  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+बीन_लीफ_बीटल  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+बीन_लीफ_बीटल  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+बीन_लीफ_बीटल  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+बीन_लीफ_बीटल  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+बीन_लीफ_बीटल  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+बीन_लीफ_बीटल  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+बीन_लीफ_बीटल  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+बीन_लीफ_बीटल  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+बीन_लीफ_बीटल  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+बीन_लीफ_बीटल  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+बीन_लीफ_बीटल  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+बीन_लीफ_बीटल  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+बीन_लीफ_बीटल  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+बीन_लीफ_बीटल  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+बीन_लीफ_बीटल  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+बीन_लीफ_बीटल  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+ओल्टेर्नेरिया_कत्थई_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  k1  NN  .
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  k1  NN  VAUX
+किस  mod__wq  WQ  NN
+जीव  k7  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  k2  NN  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  k2  NN  JJ
+कोक्  ccof  VM  VM
+‍  lwg__vaux  VAUX  JJ
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+साइट्रस_की_सफ़ेद_रंग_की_मक्खी  nmod__adj  JJ  PSP:का
+-साइट्रस_व्हाइटफ़्लाई-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+संक्षिप्त  nmod__adj  JJ  VM
+वर्णन  pof  NN  .
+करे  main  VM  -
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  k2  NN  PSP:का
+कोक्  ccof  VM  NN
+‍  lwg__vaux  VAUX  PSP:का
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+टमाटर_की_प्रारंभिक_अंगमारी  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+लीफ-माइनर_फ्लाइस  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+लीफ-माइनर_फ्लाइस  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+लीफ-माइनर_फ्लाइस  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+लीफ-माइनर_फ्लाइस  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+लीफ-माइनर_फ्लाइस  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+लीफ-माइनर_फ्लाइस  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+लीफ-माइनर_फ्लाइस  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+लीफ-माइनर_फ्लाइस  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+लीफ-माइनर_फ्लाइस  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_की_पत्तियों_का_झुलसना  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_की_पत्तियों_का_झुलसना  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+चावल_की_पत्तियों_का_झुलसना  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+चावल_की_पत्तियों_का_झुलसना  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+चावल_की_पत्तियों_का_झुलसना  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+चावल_की_पत्तियों_का_झुलसना  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+चावल_की_पत्तियों_का_झुलसना  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+चावल_की_पत्तियों_का_झुलसना  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+चावल_की_पत्तियों_का_झुलसना  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+पाउडरी_मिल्ड्यू  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पाउडरी_मिल्ड्यू  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पाउडरी_मिल्ड्यू  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पाउडरी_मिल्ड्यू  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+पाउडरी_मिल्ड्यू  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पाउडरी_मिल्ड्यू  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पाउडरी_मिल्ड्यू  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पाउडरी_मिल्ड्यू  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पाउडरी_मिल्ड्यू  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+पाउडरी_मिल्ड्यू  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पाउडरी_मिल्ड्यू  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  NN  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पाउडरी_मिल्ड्यू  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+पाउडरी_मिल्ड्यू  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पाउडरी_मिल्ड्यू  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पाउडरी_मिल्ड्यू  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पाउडरी_मिल्ड्यू  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पाउडरी_मिल्ड्यू  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पाउडरी_मिल्ड्यू  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+तने_में_छिद्र_करने_वाला_पीला_कीट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+लक्ष्य_बिंदु  mod  RDP  NN
+-टार्गेट_स्पॉट-  mod  NN  NN
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+लक्ष्य_बिंदु  k1  RDP  VM
+-टार्गेट_स्पॉट-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+लक्ष्य_बिंदु  mod  RDP  NN
+-टार्गेट_स्पॉट-  mod  NN  NN
+किस  mod__wq  WQ  NN
+जीव  rh  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  k2  NN  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+लक्ष्य_बिंदु  mod  RDP  NN
+-टार्गेट_स्पॉट-  mod  XC  NN
+कोक्  mod  NNP  NN
+‍  ccof  NN  VM
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+लक्ष्य_बिंदु  mod  RDP  PSP:का
+-टार्गेट_स्पॉट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+संक्षिप्त  nmod__adj  JJ  VM
+वर्णन  pof  NN  .
+करे  main  VM  -
+.  rsym  .  .
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  XC  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NNP  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  NN  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NNP  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  XC  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  NN  NN
+-आईस्पॉट_ऑफ़_कॉर्न-  mod  NN  NN
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  XC  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  XC  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  k1  NN  VAUX
+किस  mod__wq  WQ  NN
+जीव  k7  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  XC  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  k4  NNP  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  XC  NN
+-आईस्पॉट_ऑफ़_कॉर्न-  mod  XC  NN
+कोक्  mod  NNP  NN
+‍  ccof  NN  VM
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+मकई_की_पत्तियों_पर_आंखों_जैसा_धब्बा  mod  RDP  PSP:का
+-आईस्पॉट_ऑफ़_कॉर्न-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+संक्षिप्त  nmod__adj  JJ  VM
+वर्णन  pof  NN  .
+करे  main  VM  -
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+सोयाबीन_रस्ट  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+सोयाबीन_रस्ट  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+सोयाबीन_रस्ट  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+सोयाबीन_रस्ट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+सोयाबीन_रस्ट  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+सोयाबीन_रस्ट  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+सोयाबीन_रस्ट  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+सोयाबीन_रस्ट  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+सोयाबीन_रस्ट  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  k2  NN  PSP:का
+कोक्  ccof  VM  NN
+‍  lwg__vaux  VAUX  PSP:का
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पत्तियों_पर_जीवाणु_की_धारियां  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+उड़द_दाल_पर_ज़ंग  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+उड़द_दाल_पर_ज़ंग  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  k1s  NN  NN
+है  main  VM  -
+.  rsym  .  NN
+
+
+उड़द_दाल_पर_ज़ंग  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  NN  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+उड़द_दाल_पर_ज़ंग  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+उड़द_दाल_पर_ज़ंग  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+उड़द_दाल_पर_ज़ंग  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+उड़द_दाल_पर_ज़ंग  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+उड़द_दाल_पर_ज़ंग  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+उड़द_दाल_पर_ज़ंग  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  r6  NNP  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  r6  NNP  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  r6  NNP  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  r6  NNP  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  r6  NNP  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  r6  NNP  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  r6  NNP  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  k1  NN  .
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  r6  NNP  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  r6  NNP  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  k1  NN  VAUX
+किस  mod__wq  WQ  NN
+जीव  k7  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  k4  NNP  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  NN
+-एंगुलर_लीफ़_स्पॉट-  mod  XC  NN
+कोक्  mod  NNP  NN
+‍  ccof  NN  VM
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_कोणीय_धब्बों_वाला_रोग  mod  XC  PSP:का
+-एंगुलर_लीफ़_स्पॉट-  k4  NNP  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  k1  NN  NN
+किसके  adv  WQ  NN
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  k1  NN  .
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  NN  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  k1  NN  VAUX
+किस  mod__wq  WQ  NN
+जीव  k7  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  k2  NN  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  k2  NN  JJ
+कोक्  ccof  VM  VM
+‍  lwg__vaux  VAUX  JJ
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+पत्तियों_पर_मेंढक_की_आंख_जैसे_धब्बे  nmod__adj  JJ  PSP:का
+-फ़्रॉग_आई_लीफ़_स्पॉट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+संक्षिप्त  nmod__adj  JJ  VM
+वर्णन  pof  NN  .
+करे  main  VM  -
+.  rsym  .  .
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_का_लाल_घुन  k1  NN  NN
+-साइट्रस_रेड_माइट-  vmod  VM  NN
+किसके  adv  WQ  NN
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+साइट्रस_का_लाल_घुन  mod  NN  NN
+-साइट्रस_रेड_माइट-  nmod__adj  VM  NN
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+साइट्रस_का_लाल_घुन  mod  NN  NN
+-साइट्रस_रेड_माइट-  mod  NN  NN
+किस  mod__wq  WQ  NN
+जीव  k7  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  k2  NN  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+साइट्रस_का_लाल_घुन  k1  NN  VAUX
+-साइट्रस_रेड_माइट-  mod  VM  NN
+कोक्  mod  NNP  NN
+‍  ccof  NN  VM
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+साइट्रस_का_लाल_घुन  mod  NN  PSP:का
+-साइट्रस_रेड_माइट-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+संक्षिप्त  nmod__adj  JJ  VM
+वर्णन  pof  NN  .
+करे  main  VM  -
+.  rsym  .  .
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+उपाय  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+यूरोपीय_मकई_छिद्रक_कीट  mod  NN  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NNP  NN
+का  lwg__psp  PSP:का  PSP:का
+निरोध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  k2  NN  VM
+को  lwg__psp  PSP:को  PSP:का
+कैसे  adv  WQ  VM
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+रोकधाम  k1  NN  VAUX
+संक्षिप्त  k1  NN  VAUX
+मे  adv  PSP:मा  VAUX
+लिखे  main  VM  -
+.  rsym  .  VAUX
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+प्रतिकार  pof  NN  .
+कैसे  adv  WQ  .
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  .
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NN  NN
+के  lwg__psp  PSP:का  PSP:का
+पर्तिबन्ध  k1  NN  VAUX
+क्या  vmod  WQ  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+वैज्ञानिक  nmod__adj  JJ  VM
+नाम  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मुख्य  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  main  NN  -
+किसके  mod__wq  WQ  NN
+कारणहोता  ccof  NN  PSP:का
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  k1  NN  .
+किस  mod__wq  WQ  NN
+वजह  rh  NN  .
+से  lwg__psp  PSP:से  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+मूल  nmod__adj  JJ  VM
+कारण  k1  NN  VAUX
+क्या  adv  WQ  VAUX
+है  main  VM  -
+.  rsym  .  VAUX
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NN  NN
+का  lwg__psp  PSP:का  PSP:का
+अभिप्राय  k1  NN  .
+क्या  k1s  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  k1  NN  VM
+किसके  adv  WQ  VM
+कारण  lwg__psp  NN  JJ
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  k1  NN  VAUX
+किस  mod__wq  WQ  NN
+जीव  k7  NN  VAUX
+के  lwg__psp  PSP:का  NN
+कारण  lwg__psp  NN  NN
+होता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  k2  NN  .
+को  lwg__psp  PSP:को  PSP:का
+कॉन  k2  NN  .
+पैदा  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+यूरोपीय_मकई_छिद्रक_कीट  mod  XC  NN
+-यूरोपीय_कॉर्न_बोरर-  mod  XC  NN
+कोक्  mod  NNP  NN
+‍  ccof  NN  VM
+या  k2  CC:या  VAUX
+प्रेरित  pof  JJ  VAUX
+करता  main  VM  -
+है  lwg__vaux  VAUX  VAUX
+.  rsym  .  VAUX
+
+
+यूरोपीय_मकई_छिद्रक_कीट  mod  NN  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  k4  NNP  VM
+को  lwg__psp  PSP:को  PSP:का
+क्या  adv  WQ  VM
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+यूरोपीय_मकई_छिद्रक_कीट  nmod__adj  JJ  PSP:का
+-यूरोपीय_कॉर्न_बोरर-  r6  NN  VM
+का  lwg__psp  PSP:का  PSP:का
+संक्षिप्त  nmod__adj  JJ  VM
+वर्णन  pof  NN  .
+करे  main  VM  -
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+जीवाणविक_धब्बे  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+जीवाणविक_धब्बे  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+जीवाणविक_धब्बे  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+जीवाणविक_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+जीवाणविक_धब्बे  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+जीवाणविक_धब्बे  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+जीवाणविक_धब्बे  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+जीवाणविक_धब्बे  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+जीवाणविक_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+उपाय  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+निरोध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_के_खोल_में_धब्बे  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+कैसे  adv  WQ  NN
+रोक  main  VM  -
+सकते  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+रोकधाम  k1  NN  .
+संक्षिप्त  k1  NN  .
+मे  adv  PSP:मा  .
+लिखे  main  VM  -
+.  rsym  .  .
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+प्रतिकार  pof  NN  VM
+कैसे  adv  WQ  VM
+कर  main  VM  -
+सकते  lwg__vaux  VAUX  VM
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  JJ
+के  lwg__psp  PSP:का  NN
+पर्तिबन्ध  k1  NN  .
+क्या  vmod  WQ  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+वैज्ञानिक  nmod__adj  JJ  NN
+नाम  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मुख्य  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_के_खोल_में_धब्बे  k1  NN  JJ
+किसके  adv  WQ  JJ
+कारणहोता  main  VM  -
+है  lwg__vaux  VAUX  JJ
+.  rsym  .  JJ
+
+
+चावल_के_खोल_में_धब्बे  k1  NN  VM
+किस  mod__wq  WQ  JJ
+वजह  rh  NN  VM
+से  lwg__psp  PSP:से  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+मूल  nmod__adj  JJ  NN
+कारण  k1  NN  .
+क्या  adv  WQ  .
+है  main  VM  -
+.  rsym  .  .
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  JJ
+का  lwg__psp  PSP:का  NN
+अभिप्राय  k1  NN  VM
+क्या  k1s  WQ  VM
+है  main  VM  -
+.  rsym  .  VM
+
+
+चावल_के_खोल_में_धब्बे  k1  NN  NN
+किसके  adv  WQ  NN
+कारण  lwg__psp  NN  PSP:का
+हेतू  main  VM  -
+होता  lwg__vaux  VAUX  NN
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+चावल_के_खोल_में_धब्बे  k1  NN  .
+किस  mod__wq  WQ  JJ
+जीव  k7  NN  .
+के  lwg__psp  PSP:का  JJ
+कारण  lwg__psp  NN  JJ
+होता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+चावल_के_खोल_में_धब्बे  k2  NN  VM
+को  lwg__psp  PSP:को  NN
+कॉन  k2  NN  VM
+पैदा  pof  JJ  VM
+करता  main  VM  -
+है  lwg__vaux  VAUX  VM
+.  rsym  .  VM
+
+
+चावल_के_खोल_में_धब्बे  mod  XC  JJ
+कोक्  mod  NNP  JJ
+‍  ccof  NN  NN
+या  k2  CC:या  .
+प्रेरित  pof  JJ  .
+करता  main  VM  -
+है  lwg__vaux  VAUX  .
+.  rsym  .  .
+
+
+चावल_के_खोल_में_धब्बे  k2  NN  NN
+को  lwg__psp  PSP:को  NN
+क्या  adv  WQ  NN
+उकसाता  main  VM  -
+है  lwg__vaux  VAUX  NN
+.  rsym  .  NN
+
+
+चावल_के_खोल_में_धब्बे  r6  NN  NN
+का  lwg__psp  PSP:का  NN
+संक्षिप्त  nmod__adj  JJ  NN
+वर्णन  pof  NN  VM
+करे  main  VM  -
+.  rsym  .  VM
+
+
+
+

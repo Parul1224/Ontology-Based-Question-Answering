@@ -1,0 +1,17 @@
+This folder contains the details of the ontology made
+
+
+
+We have total 284 agricultural diseases listed in folder "Total" as "list_of_diseases.txt"  
+
+
+The names of diseases are listed in folder "Diseases"
+
+
+Total causes are 8 listed in folder "Total" as "Bimari_Ka_Karan.txt"
+
+
+Total crops are 100 listed in folder "Total" as "fasal.txt"
+
+
+The crops are further divided in 5 categories in folder "Fasal" as "anaj.txt", "dal.txt" ,"fal.txt" ,"sabji.txt", "tel.txt".

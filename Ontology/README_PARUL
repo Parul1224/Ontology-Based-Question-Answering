@@ -1,0 +1,28 @@
+For running the query on Fuseki-Sever you need to do the following steps
+
+
+
+Enter the terminal
+
+
+
+Enter the directory "apache-jena-fuseki-3.7.0"
+
+
+Enter the command "bash fuseki-server" to connect to localhost:3030
+
+
+Now go to chrome or firefox and "localhost:3030"
+
+
+
+Now you are connected to the local server and upload your ontology here and perform SPARQL Queries
+
+
+
+
+Example is given in SPARQL.txt
+
+
+
+

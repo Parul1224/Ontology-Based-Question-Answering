@@ -1,0 +1,19 @@
+The source of this data is https://www.plantix.net/
+
+
+
+Using Beautiful soup the data has been scraped into hindi.
+
+
+
+First run python scrape.py
+
+
+Then run python divide.py 
+
+
+The folder d contains the detail of each and every diseases.There are total 284 diseases
+
+
+
+Using this data create the Ontology

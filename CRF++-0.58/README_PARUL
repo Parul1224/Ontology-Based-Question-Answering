@@ -1,0 +1,38 @@
+Now we have to train the model
+
+
+
+We have training set named as "crf_train.txt" which we have to train for our model
+
+
+For that we need template file which is "crf1_template.txt"
+
+
+And the test set is "test_set4.txt"
+
+
+Now run the command for training:
+Enter the terminal:
+Enter the directory CRF++ 0.58
+write: "bash crf_learn -t crf1_template.txt crf_train.txt model"   [MOdel in text format]
+
+
+now write :ls model*
+
+
+To see the model write "vim model.txt"
+
+
+Now the model is trained and we have to test it against our set
+
+
+
+now write :"bash crf_test -m model test_set4.txt>op4.txt"
+
+
+The labels are assigned and then we have output in op4.txt with keywords labelled as SELECT for each question
+
+
+
+So the keywords can be extracted for any test set. 
+

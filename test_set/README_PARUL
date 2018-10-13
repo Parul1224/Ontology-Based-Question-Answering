@@ -1,0 +1,45 @@
+For testing we have 10 test_sets containing the questions for which the keywords have to be identified 
+
+
+
+Each test set contains 500_550 questions each
+
+
+
+
+The names of those test sets are of the following form "test_questions4.input.txt", "test_questions1.input.txt" etc.
+
+
+
+So for generating the tags for the test_set enter the terminal 
+
+
+
+Enter the directory test_set
+
+
+
+Write make "test_questions4.output"
+
+
+
+For that the output will be stored in "test_questions4.output"
+
+
+
+
+Now we need our featues for the test set so write python3 tagger.py>test_set4.txt
+
+
+
+
+Now the file test_set4.txt is the test set to be trained against CRF++ 0.58 for generating the labels(SELECT/DISCARD) for the keywords
+
+
+
+
+Move to CRF++ 0.58 and copy this file with name test_set4.txt in the folder CRF++ 0.58
+
+
+
+

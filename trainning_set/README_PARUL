@@ -1,0 +1,44 @@
+
+The training_set.input.txt contains 5712 questions related to agricultural diseases.
+
+
+
+Enter the terminal/command prompt
+
+
+
+Enter the directory trainning_set in terminal
+
+
+
+Then write "make training_set.output"
+
+
+
+The tagger will write the output to "training_set.output"
+
+
+
+
+After that for training in CRF++ 0.58 we need only three features dependency_tag  pos and parent_pos tag 
+
+
+
+
+The file tagger.py reads the file "diseases.txt" for selecting them (SELECT)
+
+
+
+
+So in the same terminal now write "python3 tagger.py">"answers.txt" [Don't use "" (just for specifying the commands")] (where answers.txt will contain the necessary features along with the labels(SELECT/DISCARD)
+
+
+
+
+Now answers.txt is the training set for CRF++ 0.58
+
+
+
+
+So now copy this file with name "crf_train.txt" and  move to folder CRF++
+where you can train the model.
